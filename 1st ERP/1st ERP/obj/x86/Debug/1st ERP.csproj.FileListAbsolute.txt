@@ -1,0 +1,22 @@
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\bin\Debug\1st ERP.exe
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\bin\Debug\1st ERP.pdb
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\WindowsFormsApplication1.myconnection.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\1st ERP.exe
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\1st ERP.pdb
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\bin\Debug\PC_DB.accdb
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\bin\Debug\1st ERP.exe.config
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\WindowsFormsApplication1.Form10.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\WindowsFormsApplication1.Form11.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\WindowsFormsApplication1.Form12.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\1st ERP.csprojResolveAssemblyReference.cache
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\1st ERP\1st ERP\obj\x86\Debug\1st ERP.csproj.GenerateResource.Cache
